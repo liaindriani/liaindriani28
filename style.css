@@ -1,4 +1,6 @@
-
+body {
+    background: url("./liaaa.jpg/background.png.jpg");
+}
 
 .brown-sugar {
     color: #ff0000;
@@ -10,5 +12,14 @@
 #table-yuk {
     margin: 20px 0px 10px 50px;
     background-color: aqua 
-    padding: 20px
+    padding: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+div a:hover {
+    color: red;
 }

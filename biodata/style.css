@@ -1,5 +1,5 @@
-body {
-    background: url("./liaaa.jpg/background.png.jpg");
+.body {
+    background: url("./liaaa.jpg/background.jpg");
 }
 
 .brown-sugar {
@@ -22,4 +22,10 @@ a:hover {
 
 div a:hover {
     color: red;
+}
+
+.daftar {
+    display: inline
+    
+    
 }
